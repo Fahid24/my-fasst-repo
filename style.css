@@ -1,0 +1,14 @@
+h1{font-family: 'Bree Serif', serif;}
+.color{
+    color:rgb(253, 13, 13);}
+section{ 
+    display: flex;
+}
+.half-width{
+    width: 100%
+    padding-left: 15%;
+}
+.half-width img{
+    width:40% 
+    
+    }
